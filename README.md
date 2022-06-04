@@ -3,8 +3,8 @@
 ### This little project is a music reactive lamp based on an Arduino Nano 
 
 <div align="center">
-  <img width="25%" height="auto" src="images/image4.jpg">
-  <img width="25%" height="auto" src="images/image2.jpg">
+  <img width="40%" height="auto" src="images/image4.jpg">
+  <img width="40%" height="auto" src="images/image2.jpg">
 </div>
 
 
