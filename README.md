@@ -17,5 +17,12 @@
 - Arduino Nano
 - For the music-input, I am using a 3.5mm jack, but you can also use a <a href="https://www.amazon.de/Youmile-Sensitivity-Microphone-Detection-Arduino/dp/B07Q1BYDS7/ref=sr_1_22_sspa">microphone</a>
 
-## Info!
+## !Info:
 There are two folders in the src folder, one folder is called monoChannel, which is for a single Lamp and the other folder called stereoChannel is for two lamps, you can use two lamps, to visualize the audio played on the left channel separated from the audio played on the right channel.
+
+## Circuit:
+
+<div align="center">
+  <img width="30%" height="auto" src="images/circuit_jack.jpg">
+  <img width="30%" height="auto" src="images/circuit_mic.jpg">
+</div>
